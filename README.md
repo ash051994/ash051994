@@ -4,7 +4,7 @@
 
 I build and run production web systems — for the last five years mostly regulated healthcare and pharma websites — and I like turning messy real-world workflows into software people actually use.
 
-📍 Palghar, Mumbai region, India &nbsp;·&nbsp; ✉️ [ash051994@outlook.com](mailto:ash051994@outlook.com) &nbsp;·&nbsp; 💼 Open to full-stack and backend developer roles
+📍 Palghar, Mumbai region, India &nbsp;·&nbsp; ✉️ [ash051994@outlook.com](mailto:ash051994@outlook.com) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ashwin-gaikwad-dev) &nbsp;·&nbsp; 💼 Open to full-stack and backend developer roles
 
 ---
 
